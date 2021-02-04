@@ -17,11 +17,11 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		dilip Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-7799166775,
+		mdilipkumar0396@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
